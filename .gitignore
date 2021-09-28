@@ -1,2 +1,3 @@
 Lib
 Data_Raw/*
+!Data_Raw/sample_chat_history.json
