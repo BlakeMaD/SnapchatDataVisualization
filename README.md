@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/BlakeMaD/SnapchatDataVisualization">
     <img src="images/icon.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -39,8 +39,6 @@
     <a href="https://github.com/BlakeMaD/SnapchatDataVisualization"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BlakeMaD/SnapchatDataVisualization">View Demo</a>
-    ·
     <a href="https://github.com/BlakeMaD/SnapchatDataVisualization/issues">Report Bug</a>
     ·
     <a href="https://github.com/BlakeMaD/SnapchatDataVisualization/issues">Request Feature</a>
@@ -197,16 +195,15 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [contributors-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [forks-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [stars-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [issues-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/blake-dukes/
-[product-screenshot]: images/screenshot.png
