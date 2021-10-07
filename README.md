@@ -27,23 +27,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/BlakeMaD/SnapchatDataVisualization">
+    <img src="images/icon.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SnapViz: Snapchat Data Visualization tool</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BlakeMaD/SnapchatDataVisualization"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/BlakeMaD/SnapchatDataVisualization/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/BlakeMaD/SnapchatDataVisualization/issues">Request Feature</a>
   </p>
 </p>
 
@@ -80,8 +78,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -95,7 +91,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
@@ -192,6 +187,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
+* [Snapchat Icon Vectors by Vecteezy](https://www.vecteezy.com/free-vector/snapchat-icon)
 
 
 
@@ -199,16 +195,15 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [contributors-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [forks-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [stars-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/BlakeMaD/SnapchatDataVisualization.svg?style=for-the-badge
 [issues-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/BlakeMaD/SnapchatDataVisualization/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/blake-dukes/
-[product-screenshot]: images/screenshot.png
