@@ -115,7 +115,7 @@ def get_chat_usernames(filter:str) -> set:
 if __name__ == "__main__":
     """ This is executed when run from the command line """
     try:
-        get_chat_history('ramyamandyam', 'Ramya \(*.*)/')
+        get_chat_history('all','Ramya \(*.*)/', 'ramyamandyam')
     except Exception as e:
         print('chat_history.py:')
         print(e)
